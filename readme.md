@@ -1,6 +1,6 @@
-# 💳 Pinjol (Online Loan) Insight Dashboard: Victim vs. Promotional Bot Detection
+# 💳 Pinjol (Pinjaman Online) Insight Dashboard: Victim vs. Promotional Bot Detection
 
-An interactive, web-based analytical dashboard designed to systematically detect and analyze social media discourse surrounding Online Loans (_Pinjol_). This project integrates Natural Language Processing (NLP), Machine Learning (Support Vector Machine with TF-IDF), Topic Modeling (Latent Dirichlet Allocation), and Social Network Analysis (SNA) to empirically distinguish genuine victims' grievances from promotional bot spam.
+An interactive, web-based analytical dashboard designed to systematically detect and analyze social media discourse surrounding Online Loans (_PinJol_). This project integrates Natural Language Processing (NLP), Machine Learning (Support Vector Machine with TF-IDF), Topic Modeling (Latent Dirichlet Allocation), and Social Network Analysis (SNA) to empirically distinguish genuine victims' grievances from promotional bot spam.
 
 ## 🚀 Live Demo
 
