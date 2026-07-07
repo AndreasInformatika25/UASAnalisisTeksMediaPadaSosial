@@ -1,0 +1,1532 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-06-26">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="degree_centrality" type="double" />
+      <attribute id="1" title="indegree_centrality" type="double" />
+    </attributes>
+    <nodes>
+      <node id="idamanmuut" label="idamanmuut">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="gregoriusaryaaa" label="gregoriusaryaaa">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="rumahsyariahid" label="rumahsyariahid">
+        <attvalues>
+          <attvalue for="0" value="0.013333333333333332" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="jackvardan" label="jackvardan">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="aliyaff28" label="aliyaff28">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="imamsupriadibpk" label="imamsupriadibpk">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="oxhalars" label="oxhalars">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="osl_id" label="osl_id">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="finplus_id" label="finplus_id">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="rbt" label="rbt">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="risa_saraswati" label="risa_saraswati">
+        <attvalues>
+          <attvalue for="0" value="0.022222222222222223" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="amelkanaysa" label="amelkanaysa">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="rmlegoh" label="rmlegoh">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="jikunsprain" label="jikunsprain">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="kacaback678910" label="kacaback678910">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="prabowo" label="prabowo">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="halobca" label="halobca">
+        <attvalues>
+          <attvalue for="0" value="0.022222222222222223" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="auliaam35592531" label="auliaam35592531">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="imamgho91329663" label="imamgho91329663">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="jkdaulay" label="jkdaulay">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="infopadang_" label="infopadang_">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="jariri31" label="jariri31">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="amalia7villa" label="amalia7villa">
+        <attvalues>
+          <attvalue for="0" value="0.013333333333333332" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="supirpete2" label="supirpete2">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="daeng_info" label="daeng_info">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="pakaluru_mks" label="pakaluru_mks">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="undrrbn" label="undrrbn">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="lambesahamjja" label="lambesahamjja">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="infobandung" label="infobandung">
+        <attvalues>
+          <attvalue for="0" value="0.008888888888888889" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="sakurapinkkk" label="sakurapinkkk">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="drfir4" label="drfir4">
+        <attvalues>
+          <attvalue for="0" value="0.06666666666666667" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="enrico_bobob" label="enrico_bobob">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="fandysatriap" label="fandysatriap">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="dino_diidii" label="dino_diidii">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="stevaniehuangg" label="stevaniehuangg">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="tbgs_handally" label="tbgs_handally">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="ray230521" label="ray230521">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="clearpoolfin" label="clearpoolfin">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="buzzfeedyou" label="buzzfeedyou">
+        <attvalues>
+          <attvalue for="0" value="0.013333333333333332" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="03__nakula" label="03__nakula">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="haikai_hassan" label="haikai_hassan">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="haikal_hassan" label="haikal_hassan">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="jpyudha48" label="jpyudha48">
+        <attvalues>
+          <attvalue for="0" value="0.008888888888888889" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="fagesol" label="fagesol">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="bank_bnp" label="bank_bnp">
+        <attvalues>
+          <attvalue for="0" value="0.013333333333333332" />
+          <attvalue for="1" value="0.013333333333333332" />
+        </attvalues>
+      </node>
+      <node id="mulianpirmansah" label="mulianpirmansah">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="bankkeliling" label="bankkeliling">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="fransgabri2801" label="fransgabri2801">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="aetherialthesis" label="aetherialthesis">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="convomf" label="convomf">
+        <attvalues>
+          <attvalue for="0" value="0.008888888888888889" />
+          <attvalue for="1" value="0.008888888888888889" />
+        </attvalues>
+      </node>
+      <node id="elvon_daily" label="elvon_daily">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="jeellywish" label="jeellywish">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="widiadnyanatias" label="widiadnyanatias">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="nabiylarisfa" label="nabiylarisfa">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="shopeecare" label="shopeecare">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="melipirr" label="melipirr">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="gadaibpkbresmi" label="gadaibpkbresmi">
+        <attvalues>
+          <attvalue for="0" value="0.008888888888888889" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="juraganbpkb" label="juraganbpkb">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="ojkindonesia" label="ojkindonesia">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="ditowirawann" label="ditowirawann">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="gadaihpbandung" label="gadaihpbandung">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="bandungiklan" label="bandungiklan">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="aulya_putry_423" label="aulya_putry_423">
+        <attvalues>
+          <attvalue for="0" value="0.013333333333333332" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="oasekalbu" label="oasekalbu">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="bizguidebca" label="bizguidebca">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="semangatpositif" label="semangatpositif">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="iklanbalikpapan" label="iklanbalikpapan">
+        <attvalues>
+          <attvalue for="0" value="0.008888888888888889" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="evaoktafiani" label="evaoktafiani">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="ellajbr" label="ellajbr">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="hrdbacot" label="hrdbacot">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="pocket" label="pocket">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="sukasukaaguuee" label="sukasukaaguuee">
+        <attvalues>
+          <attvalue for="0" value="0.008888888888888889" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="jazine14" label="jazine14">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="alex_82284041" label="alex_82284041">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="devvv_____" label="devvv_____">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="fiersabesari" label="fiersabesari">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="goodlifebca" label="goodlifebca">
+        <attvalues>
+          <attvalue for="0" value="0.026666666666666665" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="hakimalaufa25" label="hakimalaufa25">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="rimarema" label="rimarema">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="acoyow" label="acoyow">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="mhdafi" label="mhdafi">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="jitenshaproject" label="jitenshaproject">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="dody_dodolijo" label="dody_dodolijo">
+        <attvalues>
+          <attvalue for="0" value="0.035555555555555556" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="humasjateng" label="humasjateng">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="ganjarpranowo" label="ganjarpranowo">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="dinkopjateng" label="dinkopjateng">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="kominfo_jtg" label="kominfo_jtg">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="anakdesaid" label="anakdesaid">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="jateng_twit" label="jateng_twit">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="provjateng" label="provjateng">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="disperindagjtg" label="disperindagjtg">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="bwambrank" label="bwambrank">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="puspitafm" label="puspitafm">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="edzulfikar" label="edzulfikar">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="bloodyholycray" label="bloodyholycray">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="episode_akhir" label="episode_akhir">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="ahlulqohwah" label="ahlulqohwah">
+        <attvalues>
+          <attvalue for="0" value="0.013333333333333332" />
+          <attvalue for="1" value="0.013333333333333332" />
+        </attvalues>
+      </node>
+      <node id="juve_info01" label="juve_info01">
+        <attvalues>
+          <attvalue for="0" value="0.022222222222222223" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="tribunmilano" label="tribunmilano">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="jcindonesia" label="jcindonesia">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="seriea_lawas" label="seriea_lawas">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="fandomid_" label="fandomid_">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="direktoridosen" label="direktoridosen">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="1717_ern" label="1717_ern">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="caratstalk" label="caratstalk">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="edy_rnr" label="edy_rnr">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="sahabat_kartu" label="sahabat_kartu">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="rissha_aprilia" label="rissha_aprilia">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="sisoasikk" label="sisoasikk">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="pinjollaknat" label="pinjollaknat">
+        <attvalues>
+          <attvalue for="0" value="0.008888888888888889" />
+          <attvalue for="1" value="0.008888888888888889" />
+        </attvalues>
+      </node>
+      <node id="yoen_daez" label="yoen_daez">
+        <attvalues>
+          <attvalue for="0" value="0.017777777777777778" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="iklansolo" label="iklansolo">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="iklansoloraya" label="iklansoloraya">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="promosoloraya" label="promosoloraya">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="promoska" label="promoska">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="xpresibca" label="xpresibca">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="nadine941737" label="nadine941737">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="pinjamantalanga" label="pinjamantalanga">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="gmail" label="gmail">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="cashdanakilat" label="cashdanakilat">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="cashkilat_tech" label="cashkilat_tech">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="fxsudirmanjkt48" label="fxsudirmanjkt48">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="tr_dino99" label="tr_dino99">
+        <attvalues>
+          <attvalue for="0" value="0.044444444444444446" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="sky_chaery01" label="sky_chaery01">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="sky_seulgi94" label="sky_seulgi94">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="sky_joohyun91" label="sky_joohyun91">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="sky_jisoo95" label="sky_jisoo95">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="sky_yuju97" label="sky_yuju97">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="sky_suzyy94" label="sky_suzyy94">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="sky_sana96" label="sky_sana96">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="sky_ryujin01" label="sky_ryujin01">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="sky_miyeon97" label="sky_miyeon97">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="sky_jiheon03" label="sky_jiheon03">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="fcimfir72" label="fcimfir72">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="nickoakbar" label="nickoakbar">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="dendennemon" label="dendennemon">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="firdausalb9" label="firdausalb9">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="coinexindonesia" label="coinexindonesia">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="seamlessfi" label="seamlessfi">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="smitysinomor1" label="smitysinomor1">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="budblegums" label="budblegums">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="kurniapang" label="kurniapang">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="convomfs" label="convomfs">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="bankmandiri" label="bankmandiri">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="rifano49" label="rifano49">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="champagnetoasst" label="champagnetoasst">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="detikcom" label="detikcom">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="detik_properti" label="detik_properti">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="makanmasak" label="makanmasak">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="angga_djaja" label="angga_djaja">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="mas_aih" label="mas_aih">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="d_armawan94" label="d_armawan94">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="rianhidayat1806" label="rianhidayat1806">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="bahayabahadur" label="bahayabahadur">
+        <attvalues>
+          <attvalue for="0" value="0.013333333333333332" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="deaantiaa" label="deaantiaa">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="julianmj_" label="julianmj_">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="kegblgnunfaedh" label="kegblgnunfaedh">
+        <attvalues>
+          <attvalue for="0" value="0.008888888888888889" />
+          <attvalue for="1" value="0.008888888888888889" />
+        </attvalues>
+      </node>
+      <node id="izulsidarta" label="izulsidarta">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="kreditgogo" label="kreditgogo">
+        <attvalues>
+          <attvalue for="0" value="0.008888888888888889" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="bfifinance" label="bfifinance">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="mapgiftvoucher" label="mapgiftvoucher">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="terpaxa" label="terpaxa">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="18fesss" label="18fesss">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="jungledevil" label="jungledevil">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="yusuf_dumdum" label="yusuf_dumdum">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="akhibaka" label="akhibaka">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="kimimyesha" label="kimimyesha">
+        <attvalues>
+          <attvalue for="0" value="0.013333333333333332" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="emeryreece1" label="emeryreece1">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="rudetiawanst" label="rudetiawanst">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="annclver" label="annclver">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="ilhmfchthrsi" label="ilhmfchthrsi">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="permana_sr" label="permana_sr">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="jack09199929" label="jack09199929">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="histyss" label="histyss">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="wowfakta" label="wowfakta">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="bukankuman" label="bukankuman">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="embahnyutz" label="embahnyutz">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="ras_aff" label="ras_aff">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="bankbca" label="bankbca">
+        <attvalues>
+          <attvalue for="0" value="0.008888888888888889" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="eknov_" label="eknov_">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="dee13431735" label="dee13431735">
+        <attvalues>
+          <attvalue for="0" value="0.022222222222222223" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="eddysantri" label="eddysantri">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="oliviacath1540" label="oliviacath1540">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="divhumas_polri" label="divhumas_polri">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="lbh_jakarta" label="lbh_jakarta">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="dpr_ri" label="dpr_ri">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="riscacing" label="riscacing">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="pegadaian" label="pegadaian">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="urriiaa" label="urriiaa">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="drew_bbs" label="drew_bbs">
+        <attvalues>
+          <attvalue for="0" value="0.05333333333333333" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="kangdede78" label="kangdede78">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="ilctv1" label="ilctv1">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="permadiaktivis" label="permadiaktivis">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="4y4nkz" label="4y4nkz">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="kondekturbus_" label="kondekturbus_">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="woelannnn" label="woelannnn">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="gunromli" label="gunromli">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="amrudinnejad_" label="amrudinnejad_">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="yudhapati88" label="yudhapati88">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="heniunique" label="heniunique">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="v_stone_kardol" label="v_stone_kardol">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="mintulita" label="mintulita">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="partaisocmed" label="partaisocmed">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="biangbekas" label="biangbekas">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="luculucuaan" label="luculucuaan">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="erwinmade12" label="erwinmade12">
+        <attvalues>
+          <attvalue for="0" value="0.008888888888888889" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="700juta" label="700juta">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="gibran_tweet" label="gibran_tweet">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="jelebu69" label="jelebu69">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="anwaribrahim" label="anwaribrahim">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="iswarajkt" label="iswarajkt">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="lulugaz" label="lulugaz">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="_anothervals" label="_anothervals">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="kumistipsi" label="kumistipsi">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="thaliawlndr" label="thaliawlndr">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="sudah_lahh" label="sudah_lahh">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="daengnyambung" label="daengnyambung">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="gadaigedget_mks" label="gadaigedget_mks">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="kang_syahri" label="kang_syahri">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="singa_fintech" label="singa_fintech">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="crypto_ria_" label="crypto_ria_">
+        <attvalues>
+          <attvalue for="0" value="0.013333333333333332" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="deltaprimedefi" label="deltaprimedefi">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="colonylab" label="colonylab">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="phuture_finance" label="phuture_finance">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+      <node id="infotegal" label="infotegal">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="rama" label="rama">
+        <attvalues>
+          <attvalue for="0" value="0.0044444444444444444" />
+          <attvalue for="1" value="0.0044444444444444444" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="idamanmuut" target="gregoriusaryaaa" id="0" />
+      <edge source="rumahsyariahid" target="jackvardan" id="1" />
+      <edge source="rumahsyariahid" target="rumahsyariahid" id="2" />
+      <edge source="aliyaff28" target="imamsupriadibpk" id="3" />
+      <edge source="oxhalars" target="osl_id" id="4" />
+      <edge source="finplus_id" target="rbt" id="5" />
+      <edge source="risa_saraswati" target="amelkanaysa" id="6" />
+      <edge source="risa_saraswati" target="risa_saraswati" id="7" />
+      <edge source="risa_saraswati" target="rmlegoh" id="8" />
+      <edge source="risa_saraswati" target="jikunsprain" id="9" />
+      <edge source="kacaback678910" target="prabowo" id="10" />
+      <edge source="halobca" target="auliaam35592531" id="11" />
+      <edge source="halobca" target="tbgs_handally" id="12" />
+      <edge source="halobca" target="fransgabri2801" id="13" />
+      <edge source="halobca" target="firdausalb9" id="14" />
+      <edge source="halobca" target="izulsidarta" id="15" />
+      <edge source="imamgho91329663" target="jkdaulay" id="16" />
+      <edge source="infopadang_" target="jariri31" id="17" />
+      <edge source="amalia7villa" target="supirpete2" id="18" />
+      <edge source="amalia7villa" target="daeng_info" id="19" />
+      <edge source="amalia7villa" target="pakaluru_mks" id="20" />
+      <edge source="undrrbn" target="lambesahamjja" id="21" />
+      <edge source="infobandung" target="sakurapinkkk" id="22" />
+      <edge source="infobandung" target="permana_sr" id="23" />
+      <edge source="drfir4" target="enrico_bobob" id="24" />
+      <edge source="drfir4" target="fandysatriap" id="25" />
+      <edge source="drfir4" target="elvon_daily" id="26" />
+      <edge source="drfir4" target="jeellywish" id="27" />
+      <edge source="drfir4" target="devvv_____" id="28" />
+      <edge source="drfir4" target="fiersabesari" id="29" />
+      <edge source="drfir4" target="smitysinomor1" id="30" />
+      <edge source="drfir4" target="budblegums" id="31" />
+      <edge source="drfir4" target="rianhidayat1806" id="32" />
+      <edge source="drfir4" target="akhibaka" id="33" />
+      <edge source="drfir4" target="bukankuman" id="34" />
+      <edge source="drfir4" target="embahnyutz" id="35" />
+      <edge source="drfir4" target="ras_aff" id="36" />
+      <edge source="drfir4" target="luculucuaan" id="37" />
+      <edge source="drfir4" target="kegblgnunfaedh" id="38" />
+      <edge source="dino_diidii" target="stevaniehuangg" id="39" />
+      <edge source="ray230521" target="clearpoolfin" id="40" />
+      <edge source="buzzfeedyou" target="03__nakula" id="41" />
+      <edge source="buzzfeedyou" target="haikai_hassan" id="42" />
+      <edge source="buzzfeedyou" target="haikal_hassan" id="43" />
+      <edge source="jpyudha48" target="fagesol" id="44" />
+      <edge source="jpyudha48" target="bank_bnp" id="45" />
+      <edge source="mulianpirmansah" target="bankkeliling" id="46" />
+      <edge source="aetherialthesis" target="convomf" id="47" />
+      <edge source="widiadnyanatias" target="nabiylarisfa" id="48" />
+      <edge source="shopeecare" target="melipirr" id="49" />
+      <edge source="gadaibpkbresmi" target="juraganbpkb" id="50" />
+      <edge source="gadaibpkbresmi" target="pocket" id="51" />
+      <edge source="ojkindonesia" target="ditowirawann" id="52" />
+      <edge source="gadaihpbandung" target="bandungiklan" id="53" />
+      <edge source="aulya_putry_423" target="oasekalbu" id="54" />
+      <edge source="aulya_putry_423" target="bizguidebca" id="55" />
+      <edge source="aulya_putry_423" target="semangatpositif" id="56" />
+      <edge source="iklanbalikpapan" target="evaoktafiani" id="57" />
+      <edge source="iklanbalikpapan" target="dendennemon" id="58" />
+      <edge source="ellajbr" target="hrdbacot" id="59" />
+      <edge source="sukasukaaguuee" target="jazine14" id="60" />
+      <edge source="sukasukaaguuee" target="alex_82284041" id="61" />
+      <edge source="goodlifebca" target="hakimalaufa25" id="62" />
+      <edge source="goodlifebca" target="rimarema" id="63" />
+      <edge source="goodlifebca" target="edy_rnr" id="64" />
+      <edge source="goodlifebca" target="champagnetoasst" id="65" />
+      <edge source="goodlifebca" target="jack09199929" id="66" />
+      <edge source="goodlifebca" target="biangbekas" id="67" />
+      <edge source="acoyow" target="mhdafi" id="68" />
+      <edge source="jitenshaproject" target="bank_bnp" id="69" />
+      <edge source="dody_dodolijo" target="humasjateng" id="70" />
+      <edge source="dody_dodolijo" target="ganjarpranowo" id="71" />
+      <edge source="dody_dodolijo" target="dinkopjateng" id="72" />
+      <edge source="dody_dodolijo" target="kominfo_jtg" id="73" />
+      <edge source="dody_dodolijo" target="anakdesaid" id="74" />
+      <edge source="dody_dodolijo" target="jateng_twit" id="75" />
+      <edge source="dody_dodolijo" target="provjateng" id="76" />
+      <edge source="dody_dodolijo" target="disperindagjtg" id="77" />
+      <edge source="bwambrank" target="puspitafm" id="78" />
+      <edge source="edzulfikar" target="bloodyholycray" id="79" />
+      <edge source="episode_akhir" target="ahlulqohwah" id="80" />
+      <edge source="juve_info01" target="tribunmilano" id="81" />
+      <edge source="juve_info01" target="jcindonesia" id="82" />
+      <edge source="juve_info01" target="seriea_lawas" id="83" />
+      <edge source="juve_info01" target="fandomid_" id="84" />
+      <edge source="juve_info01" target="direktoridosen" id="85" />
+      <edge source="1717_ern" target="caratstalk" id="86" />
+      <edge source="sahabat_kartu" target="rissha_aprilia" id="87" />
+      <edge source="sisoasikk" target="pinjollaknat" id="88" />
+      <edge source="yoen_daez" target="iklansolo" id="89" />
+      <edge source="yoen_daez" target="iklansoloraya" id="90" />
+      <edge source="yoen_daez" target="promosoloraya" id="91" />
+      <edge source="yoen_daez" target="promoska" id="92" />
+      <edge source="xpresibca" target="nadine941737" id="93" />
+      <edge source="pinjamantalanga" target="gmail" id="94" />
+      <edge source="cashdanakilat" target="cashkilat_tech" id="95" />
+      <edge source="fxsudirmanjkt48" target="bank_bnp" id="96" />
+      <edge source="tr_dino99" target="sky_chaery01" id="97" />
+      <edge source="tr_dino99" target="sky_seulgi94" id="98" />
+      <edge source="tr_dino99" target="sky_joohyun91" id="99" />
+      <edge source="tr_dino99" target="sky_jisoo95" id="100" />
+      <edge source="tr_dino99" target="sky_yuju97" id="101" />
+      <edge source="tr_dino99" target="sky_suzyy94" id="102" />
+      <edge source="tr_dino99" target="sky_sana96" id="103" />
+      <edge source="tr_dino99" target="sky_ryujin01" id="104" />
+      <edge source="tr_dino99" target="sky_miyeon97" id="105" />
+      <edge source="tr_dino99" target="sky_jiheon03" id="106" />
+      <edge source="fcimfir72" target="nickoakbar" id="107" />
+      <edge source="coinexindonesia" target="seamlessfi" id="108" />
+      <edge source="kurniapang" target="convomfs" id="109" />
+      <edge source="bankmandiri" target="rifano49" id="110" />
+      <edge source="detikcom" target="detik_properti" id="111" />
+      <edge source="makanmasak" target="angga_djaja" id="112" />
+      <edge source="mas_aih" target="d_armawan94" id="113" />
+      <edge source="bahayabahadur" target="deaantiaa" id="114" />
+      <edge source="bahayabahadur" target="julianmj_" id="115" />
+      <edge source="bahayabahadur" target="kegblgnunfaedh" id="116" />
+      <edge source="kreditgogo" target="bfifinance" id="117" />
+      <edge source="kreditgogo" target="mapgiftvoucher" id="118" />
+      <edge source="terpaxa" target="18fesss" id="119" />
+      <edge source="jungledevil" target="yusuf_dumdum" id="120" />
+      <edge source="kimimyesha" target="emeryreece1" id="121" />
+      <edge source="kimimyesha" target="rudetiawanst" id="122" />
+      <edge source="kimimyesha" target="pinjollaknat" id="123" />
+      <edge source="annclver" target="ilhmfchthrsi" id="124" />
+      <edge source="histyss" target="wowfakta" id="125" />
+      <edge source="bankbca" target="eknov_" id="126" />
+      <edge source="bankbca" target="_anothervals" id="127" />
+      <edge source="dee13431735" target="eddysantri" id="128" />
+      <edge source="dee13431735" target="oliviacath1540" id="129" />
+      <edge source="dee13431735" target="divhumas_polri" id="130" />
+      <edge source="dee13431735" target="lbh_jakarta" id="131" />
+      <edge source="dee13431735" target="dpr_ri" id="132" />
+      <edge source="riscacing" target="pegadaian" id="133" />
+      <edge source="urriiaa" target="convomf" id="134" />
+      <edge source="drew_bbs" target="kangdede78" id="135" />
+      <edge source="drew_bbs" target="ilctv1" id="136" />
+      <edge source="drew_bbs" target="permadiaktivis" id="137" />
+      <edge source="drew_bbs" target="4y4nkz" id="138" />
+      <edge source="drew_bbs" target="kondekturbus_" id="139" />
+      <edge source="drew_bbs" target="woelannnn" id="140" />
+      <edge source="drew_bbs" target="gunromli" id="141" />
+      <edge source="drew_bbs" target="amrudinnejad_" id="142" />
+      <edge source="drew_bbs" target="ahlulqohwah" id="143" />
+      <edge source="drew_bbs" target="yudhapati88" id="144" />
+      <edge source="drew_bbs" target="heniunique" id="145" />
+      <edge source="drew_bbs" target="v_stone_kardol" id="146" />
+      <edge source="mintulita" target="partaisocmed" id="147" />
+      <edge source="erwinmade12" target="700juta" id="148" />
+      <edge source="erwinmade12" target="gibran_tweet" id="149" />
+      <edge source="jelebu69" target="anwaribrahim" id="150" />
+      <edge source="iswarajkt" target="lulugaz" id="151" />
+      <edge source="kumistipsi" target="thaliawlndr" id="152" />
+      <edge source="sudah_lahh" target="ahlulqohwah" id="153" />
+      <edge source="daengnyambung" target="gadaigedget_mks" id="154" />
+      <edge source="kang_syahri" target="singa_fintech" id="155" />
+      <edge source="crypto_ria_" target="deltaprimedefi" id="156" />
+      <edge source="crypto_ria_" target="colonylab" id="157" />
+      <edge source="crypto_ria_" target="phuture_finance" id="158" />
+      <edge source="infotegal" target="rama" id="159" />
+    </edges>
+  </graph>
+</gexf>
