@@ -59,12 +59,15 @@ KATA_PASARAN_WORDCLOUD = [
 
 # Keyword dictionary used for automatic topic labeling (notebook Bagian 8)
 KAMUS_KATEGORI = {
-    "Pengajuan Dana & Promosi Bot": ["butuh", "dana", "cepat", "mudah", "aju", "proses", "cair", "rekening", "dapin", "pinpri", "wa"],
-    "Penagihan & Teror Debt Collector": ["debt", "collector", "dc", "tagih", "teror", "ancam", "sebar", "data", "kontak", "maki"],
-    "Kendala Aplikasi & Gagal Bayar": ["bayar", "gagal", "galbay", "aplikasi", "telat", "bunga", "tempo", "denda", "gitu", "iya"],
-    "Pinjol Ilegal & Judi Online": ["ilegal", "judi", "slot", "korban", "polisi", "satgas", "ojk", "blokir", "gacor"],
-    "Syarat Kredit & BI Checking": ["bi", "checking", "kredit", "pribadi", "jamin", "ktp", "kk", "skor", "slik"],
-    "Diskusi / Tanya Jawab CS": ["tanya", "kakak", "admin", "info", "bagaimana", "cara", "solusi", "rekomendasi", "tidak"],
+    "Pelaporan Polisi & Judi Online": ["korban", "ilegal", "lapor", "judi", "daring", "polri", "kasih", "terima", "silah"],
+    "Regulasi OJK & Ekonomi": ["ojk", "lain", "kredit", "utang", "grup", "ekonomi", "tau", "tingkat"],
+    "Teror Debt Collector (DC)": ["debt", "collector", "lapang", "rumah", "teror", "yah", "tagih", "fc", "legal", "adakami"],
+    "Data Pribadi & Aplikasi Pinjol": ["data", "hutang", "jangan", "aplikasi", "orang", "teman"],
+    "Kendala Gaji & Pekerjaan": ["iya", "gimana", "hasil", "juta", "mutia", "oh", "kerja", "belum", "gaji", "tugas", "uang"],
+    "Bot Promosi Jasa & Konsultasi": ["amp", "jasa", "zonauang", "ayo", "aman", "bantu", "konsultasi"],
+    "Dampak Bunga & Mental (Bundir)": ["bukan", "hidup", "bunga", "bunuh", "cari"],
+    "Kasus UKT Kampus & BI Checking": ["kakak", "gitu", "usaha", "bi", "coba", "atur", "ukt", "cek", "kampus"],
+    "Promosi Pinjol Cepat Cair": ["dana", "butuh", "cepat", "jamin", "aju", "mudah", "cair", "kartu", "proses", "duduk", "tanda"]
 }
 
 # Optional: Sastrawi stemmer for the inference tab (Tab 4). See clean_text()
